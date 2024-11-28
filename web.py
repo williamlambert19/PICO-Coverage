@@ -5,10 +5,6 @@ import requests
 import json
 import hmac
 import os
-from dotenv import load_dotenv
-
-load_dotenv()
-print(os.getenv('PASSWORD'))
 
 def check_password():
     """Returns `True` if the user had the correct password."""
