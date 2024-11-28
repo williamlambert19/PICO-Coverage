@@ -1,0 +1,552 @@
+{
+  "_links": {
+    "self": { "href": "/cochrane/clib-editorial-topics?pageSize=50" },
+    "first": { "href": "/cochrane/clib-editorial-topics?pageSize=50" }
+  },
+  "search": { "totalResults": 49, "took": 1 },
+  "results": [
+    {
+      "label": "Mental health",
+      "editorialCategory": "Outcome",
+      "concepts": ["urn:cochrane:OutcomeClassification:q25g9q497cwn"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:06TNCivHI6YJBbiMDBj2Ic",
+      "linkSuffix": "o=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25g9q497cwn"
+    },
+    {
+      "label": "Adverse events",
+      "editorialCategory": "Outcome",
+      "concepts": ["urn:cochrane:OutcomeClassification:q25g9q497cwt"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:0M1hDQ7Bm0XsdT8ywvvRC7",
+      "linkSuffix": "o=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25g9q497cwt"
+    },
+    {
+      "label": "Mortality ",
+      "editorialCategory": "Outcome",
+      "concepts": ["urn:cochrane:OutcomeClassification:q25g9q497cwk"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:0NoAnhEGAHGFrutRHbdD1i",
+      "linkSuffix": "o=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25g9q497cwk"
+    },
+    {
+      "label": "Skin conditions",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp389st85r",
+        "urn:cochrane:Condition:r4hp389st821",
+        "urn:cochrane:Condition:r4hp38m0y2x5"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:0eo8cePYjzLH35gQZYAAJu",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp389st85r,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp389st821,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38m0y2x5"
+    },
+    {
+      "label": "Complex interventions",
+      "editorialCategory": "Intervention/Comparator",
+      "concepts": ["urn:cochrane:InterventionClassification:kn47hcb2lyvq"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:0kgaxT3M1scifJ2MIKHn92",
+      "linkSuffix": "i=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fkn47hcb2lyvq"
+    },
+    {
+      "label": "Educational interventions ",
+      "editorialCategory": "Intervention/Comparator",
+      "concepts": ["urn:cochrane:InterventionClassification:kn47hxb2lyv5"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:10dTZHbXojB1oapSd7CyCU",
+      "linkSuffix": "i=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fkn47hxb2lyv5"
+    },
+    {
+      "label": "Physical therapies",
+      "editorialCategory": "Intervention/Comparator",
+      "concepts": ["urn:cochrane:InterventionClassification:kn47hxb2lyv4"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:16POkoVsHTnwNdxoOfnL5G",
+      "linkSuffix": "i=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fkn47hxb2lyv4"
+    },
+    {
+      "label": "Pain",
+      "editorialCategory": "Outcome",
+      "concepts": ["urn:cochrane:OutcomeClassification:q25g9q497cwm"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:19hnuMVDHCdUZjMrJiMzlB",
+      "linkSuffix": "o=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25g9q497cwm"
+    },
+    {
+      "label": "Psychological therapies",
+      "editorialCategory": "Intervention/Comparator",
+      "concepts": ["urn:cochrane:InterventionClassification:qh0z3n1wbrdf"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:1MZOHyFSh3H7OUE0IJf62r",
+      "linkSuffix": "i=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fqh0z3n1wbrdf"
+    },
+    {
+      "label": "Neurological conditions",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp38g1j62h",
+        "urn:cochrane:Event:12pxrxjwxrpkr",
+        "urn:cochrane:Condition:r4hp3885vk9l",
+        "urn:cochrane:Condition:r4hp38wjbyzt",
+        "urn:cochrane:Condition:r4hp38h6vjc4",
+        "urn:cochrane:Procedure:r4hp5zfl2n8s"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:1aa71kh3HytR2e1KwH0hDx",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38g1j62h,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2F12pxrxjwxrpkr,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3885vk9l,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38wjbyzt,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38h6vjc4,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zfl2n8s"
+    },
+    {
+      "label": "Urological  conditions",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp38tgrwst",
+        "urn:cochrane:Condition:r4hp37xsddbg",
+        "urn:cochrane:Condition:r4hp3qkcb87p",
+        "urn:cochrane:Condition:r4hp38mb0nx0",
+        "urn:cochrane:Procedure:r4hp5zkp7str",
+        "urn:cochrane:Procedure:r4hp3p43rd3d"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:1ujKLHgB7qszVAm2dOOEiE",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38tgrwst,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp37xsddbg,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3qkcb87p,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38mb0nx0,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zkp7str,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p43rd3d"
+    },
+    {
+      "label": "Mental health and behavioural conditions",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp38kq1z3p",
+        "urn:cochrane:Condition:r4hp38n1qmhv"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:1wa1Y8VtMZIc6DfOIQQ6yw",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38kq1z3p,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38n1qmhv"
+    },
+    {
+      "label": "Musculoskeletal conditions",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp385v5x37",
+        "urn:cochrane:Procedure:r4hp5zl8dz0h",
+        "urn:cochrane:Procedure:r4hp5zfw57ct",
+        "urn:cochrane:Procedure:r4hp5zfqmfv2",
+        "urn:cochrane:Procedure:r4hp3p43rd3v"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:1wmNASR87azzJMIwoCGIfB",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp385v5x37,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zl8dz0h,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zfw57ct,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zfqmfv2,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p43rd3v"
+    },
+    {
+      "label": "Eyes and vision",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp38nsfl5c",
+        "urn:cochrane:Procedure:r4hp5z46f0wh",
+        "urn:cochrane:Procedure:r4hp3p4vgbp6"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:2J21fnqHcbULo1xNn1v0HB",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38nsfl5c,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5z46f0wh,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p4vgbp6"
+    },
+    {
+      "label": "Psychosocial ",
+      "editorialCategory": "Outcome",
+      "concepts": ["urn:cochrane:OutcomeClassification:q25g9q497cwr"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:2thfHjdXmh3r7nB5tN9k9x",
+      "linkSuffix": "o=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25g9q497cwr"
+    },
+    {
+      "label": "Public Health",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:PNkXO86Md4cWNo",
+        "urn:cochrane:Condition:r4hp3r8mnh9f",
+        "urn:cochrane:Condition:r4hp38d4gxb4",
+        "urn:cochrane:Condition:r4hp3885vkcv",
+        "urn:cochrane:Condition:r4hp3qkcb87l",
+        "urn:cochrane:Condition:r4hp389n8ggq",
+        "urn:cochrane:Setting:10sx0vydy44k1",
+        "urn:cochrane:Condition:r4hp3q2kmcnc",
+        "urn:cochrane:Condition:r4hp39l1z7fm",
+        "urn:cochrane:Procedure:r4hp5z78smv2",
+        "urn:cochrane:Procedure:Rwox0v8dBotWd6",
+        "urn:cochrane:Setting:63KmdEAEmXUW5k"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:2utGiCQsdBwq0vmARGx1Hx",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2FPNkXO86Md4cWNo,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3r8mnh9f,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38d4gxb4,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3885vkcv,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3qkcb87l,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp389n8ggq,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2F10sx0vydy44k1,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3q2kmcnc,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp39l1z7fm,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5z78smv2,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2FRwox0v8dBotWd6,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2F63KmdEAEmXUW5k"
+    },
+    {
+      "label": "Behavioural therapies",
+      "editorialCategory": "Intervention/Comparator",
+      "concepts": ["urn:cochrane:InterventionClassification:kn3ptfq7c6m4"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:3D8GJgnFpuqR501AILzm1C",
+      "linkSuffix": "i=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fkn3ptfq7c6m4"
+    },
+    {
+      "label": "Resource use",
+      "editorialCategory": "Outcome",
+      "concepts": ["urn:cochrane:OutcomeClassification:q25gz0m8n548"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:3NXSaoiwEgGdyMgJ3dL5OI",
+      "linkSuffix": "o=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25gz0m8n548"
+    },
+    {
+      "label": "Ear, nose and throat conditions",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:83mZR2OBPDuGOP",
+        "urn:cochrane:Condition:r4hp38mgkgj8",
+        "urn:cochrane:Condition:r4hp38mgkgj9",
+        "urn:cochrane:Condition:r4hp399q34zg",
+        "urn:cochrane:Procedure:r4hp5zkp7sts"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:3NYeO8eOIzhdiUJL65NBA0",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2F83mZR2OBPDuGOP,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38mgkgj8,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38mgkgj9,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp399q34zg,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zkp7sts"
+    },
+    {
+      "label": "Lifestyle and wellbeing",
+      "editorialCategory": "Population",
+      "type": "EditorialTopic",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp3ph3cq2b",
+        "urn:cochrane:Condition:r4hp38mrn1cs",
+        "urn:cochrane:Condition:r4hp38kdzd74",
+        "urn:cochrane:Condition:r4hp39ww87bk",
+        "urn:cochrane:Condition:r4hp38cdryrj",
+        "urn:cochrane:Condition:r4hp3885vkcv",
+        "urn:cochrane:Procedure:r4hp5z5crc36",
+        "urn:cochrane:Condition:0vrK0RwNM2FA2Y",
+        "urn:cochrane:Condition:r4hp38hhy3b8",
+        "urn:cochrane:Procedure:pJa0dr3a8dIWxn",
+        "urn:cochrane:Condition:r4hp3p43rd45",
+        "urn:cochrane:Condition:r4hp39l1z7fm"
+      ],
+      "id": "urn:cochrane:EditorialTopic:3PvePYv2rK2y5jmBd7WDIg",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3ph3cq2b,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38mrn1cs,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38kdzd74,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp39ww87bk,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38cdryrj,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3885vkcv,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5z5crc36,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2F0vrK0RwNM2FA2Y,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38hhy3b8,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2FpJa0dr3a8dIWxn,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p43rd45,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp39l1z7fm"
+    },
+    {
+      "label": "Social factors",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp3qkcb87l",
+        "urn:cochrane:Condition:yAWg5jenv1FyRK",
+        "urn:cochrane:Procedure:r4hp5zd86jp4"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:3Wm1BDsYkQdbeY3p1Mfzsb",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3qkcb87l,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2FyAWg5jenv1FyRK,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zd86jp4"
+    },
+    {
+      "label": "Digestive system conditions",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp39znk89c",
+        "urn:cochrane:Condition:r4hp381fy5cw",
+        "urn:cochrane:Procedure:r4hp5zfl2n8r",
+        "urn:cochrane:Procedure:r4hp3p4vgbpp"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:3XvITyU3o9AnT5RlwjZchN",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp39znk89c,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp381fy5cw,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zfl2n8r,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p4vgbpp"
+    },
+    {
+      "label": "Medical devices",
+      "editorialCategory": "Intervention/Comparator",
+      "concepts": ["urn:cochrane:InterventionClassification:kn3ptfq7c6m0"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:3cPw3dVgHeBlNWTtOIMa6U",
+      "linkSuffix": "i=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fkn3ptfq7c6m0"
+    },
+    {
+      "label": "Blood and immune system conditions",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp39lsp60n",
+        "urn:cochrane:Condition:r4hp37yyqqmn",
+        "urn:cochrane:Condition:r4hp3b310g5y",
+        "urn:cochrane:Condition:pARg1jDv9mFJmn",
+        "urn:cochrane:Condition:r4hp3qkcb87k",
+        "urn:cochrane:Procedure:r4hp5zdptx1w",
+        "urn:cochrane:Procedure:r4hp5zg57t7z",
+        "urn:cochrane:Procedure:r4hp5zkjq06k",
+        "urn:cochrane:Procedure:r4hp5zkp7stt",
+        "urn:cochrane:Procedure:r4hp3p4895jt"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:3i0f9rp1Rt4b5gzURi5sGw",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp39lsp60n,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp37yyqqmn,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3b310g5y,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2FpARg1jDv9mFJmn,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3qkcb87k,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zdptx1w,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zg57t7z,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zkjq06k,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zkp7stt,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p4895jt"
+    },
+    {
+      "label": "Quality of Life ",
+      "editorialCategory": "Outcome",
+      "concepts": ["urn:cochrane:OutcomeClassification:q25g9q497cwq"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:3oYTEuKTz7KbKYLPr4suIQ",
+      "linkSuffix": "o=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25g9q497cwq"
+    },
+    {
+      "label": "Gynaecological conditions",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp391yd77r",
+        "urn:cochrane:Condition:WOgYopnMNocXYN",
+        "urn:cochrane:Condition:r4hp38819rsl",
+        "urn:cochrane:Condition:r4hp38l9749l",
+        "urn:cochrane:Condition:r4hp38b7fmk4",
+        "urn:cochrane:Condition:r4hp38vy5t0l",
+        "urn:cochrane:Procedure:r4hp3p4895jr"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:4QzvCfjK50iYgH9imlnWMD",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp391yd77r,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2FWOgYopnMNocXYN,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38819rsl,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38l9749l,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38b7fmk4,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38vy5t0l,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p4895jr"
+    },
+    {
+      "label": "Cellular and gene therapies",
+      "editorialCategory": "Intervention/Comparator",
+      "concepts": ["urn:cochrane:InterventionClassification:kn3ptfq7c6m5"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:4YsuYch9jmPidv8RGDngHO",
+      "linkSuffix": "i=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fkn3ptfq7c6m5"
+    },
+    {
+      "label": "No active treatment",
+      "editorialCategory": "Intervention/Comparator",
+      "concepts": ["urn:cochrane:InterventionClassification:q25gz0m8n54j"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:4umkj9tDDDktebrMxXQTCk",
+      "linkSuffix": "i=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25gz0m8n54j"
+    },
+    {
+      "label": "Pharmacological interventions",
+      "editorialCategory": "Intervention/Comparator",
+      "concepts": ["urn:cochrane:InterventionClassification:kn3ptfq7c6lz"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:523fckRa6i85EepNnbgSaP",
+      "linkSuffix": "i=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fkn3ptfq7c6lz"
+    },
+    {
+      "label": "Satisfaction with care",
+      "editorialCategory": "Outcome",
+      "concepts": ["urn:cochrane:OutcomeClassification:q25gz0m8n547"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:54zmyEMn5Y9kEnROxVBtbx",
+      "linkSuffix": "o=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25gz0m8n547"
+    },
+    {
+      "label": "Oral health",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp38bczf67",
+        "urn:cochrane:Condition:r4hp39yh6y3g",
+        "urn:cochrane:Condition:r4hp3p4vgbm5"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:5LOpXFSTVv9C1tctGab011",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38bczf67,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp39yh6y3g,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p4vgbm5"
+    },
+    {
+      "label": "Compliance with treatment",
+      "editorialCategory": "Outcome",
+      "concepts": ["urn:cochrane:OutcomeClassification:q25g9q497cws"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:5RvHrwxuVPOcszwLkQwELi",
+      "linkSuffix": "o=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25g9q497cws"
+    },
+    {
+      "label": "Complementary and alternative therapies ",
+      "editorialCategory": "Intervention/Comparator",
+      "concepts": ["urn:cochrane:InterventionClassification:kn47hxb2lyv7"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:5SK4qioOaQuM750CilsxX9",
+      "linkSuffix": "i=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fkn47hxb2lyv7"
+    },
+    {
+      "label": "Withdrawals or dropouts ",
+      "editorialCategory": "Outcome",
+      "concepts": ["urn:cochrane:OutcomeClassification:q25gz0m8n549"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:5VL1UzO5oRiO1E8gAMdKIf",
+      "linkSuffix": "o=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25gz0m8n549"
+    },
+    {
+      "label": "Liver conditions",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp38x3j43t",
+        "urn:cochrane:Condition:r4hp3p2hspg2",
+        "urn:cochrane:Condition:88MoemaWAeFGyg",
+        "urn:cochrane:Condition:r4hp3p592q59"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:5Y4NpKQFBKydNoCe6XEMLR",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38x3j43t,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p2hspg2,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2F88MoemaWAeFGyg,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p592q59"
+    },
+    {
+      "label": "Radiotherapy",
+      "editorialCategory": "Intervention/Comparator",
+      "concepts": ["urn:cochrane:InterventionClassification:kn3ptfq7c6m3"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:5sy1U9IdxfgTQEeeA1Oljp",
+      "linkSuffix": "i=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fkn3ptfq7c6m3"
+    },
+    {
+      "label": "Infection",
+      "editorialCategory": "Outcome",
+      "concepts": ["urn:cochrane:OutcomeClassification:q25g9q497cwl"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:5vKXtvfcU0oiodnmsE9haI",
+      "linkSuffix": "o=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25g9q497cwl"
+    },
+    {
+      "label": "Injuries and wounds",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp38b2wv4x",
+        "urn:cochrane:Condition:r4hp38jzc0k2"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:6P3a3zQJT3xoucJzuF57Du",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38b2wv4x,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38jzc0k2"
+    },
+    {
+      "label": "Failed intervention ",
+      "editorialCategory": "Outcome",
+      "concepts": ["urn:cochrane:OutcomeClassification:q25gz0m8n54b"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:6VDQUIAyauAdFGMRU30F24",
+      "linkSuffix": "o=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25gz0m8n54b"
+    },
+    {
+      "label": "Respiratory conditions",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp38lfrxsj",
+        "urn:cochrane:Condition:NrO30O5ZnYIkjE",
+        "urn:cochrane:Condition:r4hp38pclr9c",
+        "urn:cochrane:Condition:r4hp38m0y2y9",
+        "urn:cochrane:Procedure:r4hp5zfl2n8q",
+        "urn:cochrane:Procedure:r4hp5z3rsn9l",
+        "urn:cochrane:Procedure:r4hp3p43rd34"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:6m1Zi6IhOuDPWsWRMdu1CL",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38lfrxsj,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2FNrO30O5ZnYIkjE,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38pclr9c,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38m0y2y9,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zfl2n8q,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5z3rsn9l,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p43rd34"
+    },
+    {
+      "label": "Cardiovascular conditions",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp38l4pbqh",
+        "urn:cochrane:Procedure:r4hp5zg57t7w",
+        "urn:cochrane:Procedure:r4hp5zg57t80",
+        "urn:cochrane:Procedure:r4hp3p43rd3g",
+        "urn:cochrane:Procedure:r4hp3p4vgbph"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:6pm8raBW0V7Kg6fyTiNoeo",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38l4pbqh,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zg57t7w,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zg57t80,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p43rd3g,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p4vgbph"
+    },
+    {
+      "label": "Fertility, pregnancy and childbirth ",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp38m5gwcp",
+        "urn:cochrane:Condition:jAP1rjQJZnI4yZ",
+        "urn:cochrane:Condition:r4hp39kxffxg",
+        "urn:cochrane:Condition:r4hp38cvdb87",
+        "urn:cochrane:Condition:r4hp38bz4l8n"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:6qSaaqh9pKvE9NipEYKuaj",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38m5gwcp,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2FjAP1rjQJZnI4yZ,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp39kxffxg,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38cvdb87,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38bz4l8n"
+    },
+    {
+      "label": "Endocrinal, nutritional and metabolic disorders",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp384tdchd",
+        "urn:cochrane:Condition:r4hp38c87586",
+        "urn:cochrane:Condition:yAWgyevjXzhyj1",
+        "urn:cochrane:Condition:r4hp38txd872",
+        "urn:cochrane:Procedure:r4hp5zfl2n8t",
+        "urn:cochrane:Procedure:r4hp5z2fxjrt",
+        "urn:cochrane:Procedure:r4hp3p43rd3f"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:72PhZHpgVeBMJHZ3QTnrrp",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp384tdchd,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38c87586,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2FyAWgyevjXzhyj1,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38txd872,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zfl2n8t,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5z2fxjrt,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3p43rd3f"
+    },
+    {
+      "label": "Cancer ",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp38ck9r8w",
+        "urn:cochrane:Procedure:r4hp5ywwbgzx",
+        "urn:cochrane:Procedure:r4hp5yx9yvl3",
+        "urn:cochrane:Procedure:r4hp5ywwbgzx",
+        "urn:cochrane:Procedure:r4hp5zl8dywk",
+        "urn:cochrane:Procedure:r4hp5z0tytzb"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:74i1BQgD9YWnMG7oT8AphG",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp38ck9r8w,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5ywwbgzx,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5yx9yvl3,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5ywwbgzx,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5zl8dywk,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp5z0tytzb"
+    },
+    {
+      "label": "Screening",
+      "editorialCategory": "Intervention/Comparator",
+      "concepts": ["urn:cochrane:InterventionClassification:kn47hxb2lyv6"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:79i6YRVL0vvV6F9lCOulp2",
+      "linkSuffix": "i=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fkn47hxb2lyv6"
+    },
+    {
+      "label": "Healthcare delivery",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Procedure:88dBzW3Wezco2n",
+        "urn:cochrane:Condition:ZxM6Pj4ppMh99Z",
+        "urn:cochrane:InterventionProvider:11g45b4xywynv",
+        "urn:cochrane:Condition:j017vAGX9KF35z",
+        "urn:cochrane:InterventionProvider:OWgoeQr6pDf064",
+        "urn:cochrane:Procedure:zPd1kOmAx0F8P2",
+        "urn:cochrane:Condition:g0nq5Jm0m4Fd5W",
+        "urn:cochrane:Procedure:7w06gwkGYaH3YQ",
+        "urn:cochrane:Procedure:ADajWW69GBH88K"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:7MlxYGTZVjxH496XPMAYuj",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2F88dBzW3Wezco2n,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2FZxM6Pj4ppMh99Z,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2F11g45b4xywynv,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fj017vAGX9KF35z,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2FOWgoeQr6pDf064,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2FzPd1kOmAx0F8P2,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fg0nq5Jm0m4Fd5W,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2F7w06gwkGYaH3YQ,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2FADajWW69GBH88K"
+    },
+    {
+      "label": "Function",
+      "editorialCategory": "Outcome",
+      "concepts": ["urn:cochrane:OutcomeClassification:q25g9q497cwp"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:7d9fduqNQtwRR3Wf7GNDVO",
+      "linkSuffix": "o=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fq25g9q497cwp"
+    },
+    {
+      "label": "Other",
+      "editorialCategory": "Intervention/Comparator",
+      "concepts": ["urn:cochrane:InterventionClassification:kn3ptfq7c6m7"],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:7oDTzRR9zlNyW6E3akf2Cg",
+      "linkSuffix": "i=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fkn3ptfq7c6m7"
+    },
+    {
+      "label": "Infections",
+      "editorialCategory": "Population",
+      "concepts": [
+        "urn:cochrane:Condition:r4hp389n8ggq",
+        "urn:cochrane:Condition:r4hp3qld3stt"
+      ],
+      "type": "EditorialTopic",
+      "id": "urn:cochrane:EditorialTopic:7vYb8hxfaiRT1xWzA4mfen",
+      "linkSuffix": "p=http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp389n8ggq,http%3A%2F%2Fdata.cochrane.org%2Fconcepts%2Fr4hp3qld3stt"
+    }
+  ]
+}
