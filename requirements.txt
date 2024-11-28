@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly.express
+requests
+json
+hmac
+os
+dotenv
